@@ -1,0 +1,29 @@
+{
+    "DodgeTheBear": {
+        "checkpoints": [
+            {
+                "steps": 4760,
+                "file_path": "results\\ppo\\DodgeTheBear\\DodgeTheBear-4760.onnx",
+                "reward": 0.0,
+                "creation_time": 1670291247.9990513,
+                "auxillary_file_paths": [
+                    "results\\ppo\\DodgeTheBear\\DodgeTheBear-4760.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4760,
+            "file_path": "results\\ppo\\DodgeTheBear.onnx",
+            "reward": 0.0,
+            "creation_time": 1670291247.9990513,
+            "auxillary_file_paths": [
+                "results\\ppo\\DodgeTheBear\\DodgeTheBear-4760.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

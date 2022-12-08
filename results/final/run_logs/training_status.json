@@ -1,0 +1,38 @@
+{
+    "DodgeTheBear": {
+        "checkpoints": [
+            {
+                "steps": 1039,
+                "file_path": "results\\final\\DodgeTheBear\\DodgeTheBear-1039.onnx",
+                "reward": 39.90000641345978,
+                "creation_time": 1670417483.3155754,
+                "auxillary_file_paths": [
+                    "results\\final\\DodgeTheBear\\DodgeTheBear-1039.pt"
+                ]
+            },
+            {
+                "steps": 1039,
+                "file_path": "results\\final\\DodgeTheBear\\DodgeTheBear-1039.onnx",
+                "reward": null,
+                "creation_time": 1670417516.6466482,
+                "auxillary_file_paths": [
+                    "results\\final\\DodgeTheBear\\DodgeTheBear-1039.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1039,
+            "file_path": "results\\final\\DodgeTheBear.onnx",
+            "reward": null,
+            "creation_time": 1670417516.6466482,
+            "auxillary_file_paths": [
+                "results\\final\\DodgeTheBear\\DodgeTheBear-1039.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
